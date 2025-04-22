@@ -1,7 +1,7 @@
 # Brainwave-Matrix-Solutions
  Digital Marketing and SEO strategy  for  Brainwave Matrix Solutions
 
-This repository is dedicated to the digital marketing and SEO strategy assignment aimed at achieving the following goals:
+This repository is dedicated to the digital marketing and SEO strategy assignment aimed at achieving the following goal in 10 days:
 - Gain 50 new followers on social media platforms.
 - Secure 100 likes for posts related to Brainwave Matrix Solutions.
 
