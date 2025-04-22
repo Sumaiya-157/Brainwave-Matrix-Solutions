@@ -1,18 +1,18 @@
 # Brainwave-Matrix-Solutions
  Digital Marketing and SEO strategy  for  Brainwave Matrix Solutions
 
-This repository is dedicated to the digital marketing and SEO strategy assignment aimed at achieving the following goal in 10 days:
+My first report:This repository is dedicated to the digital marketing and SEO strategy assignment aimed at achieving the following goal in 10 days:
 - Gain 50 new followers on social media platforms.
 - Secure 100 likes for posts related to Brainwave Matrix Solutions.
 
 ## Repository Structure
 
-I first post my offer letter which i got from Brainwave Matrix Solutions at 13 April in my linkedin profile page in which you can see how much impressions and members are reached:
+-I first post my offer letter which i got from Brainwave Matrix Solutions at 13 April in my linkedin profile page in which you can see how much impressions and members are reached:
 
 
 https://www.linkedin.com/posts/mrs-sumaiya-shams-710332340_activity-7317238509386293249-eVI6?utm_source=share&utm_medium=member_android&rcm=ACoAAFV6aHwBZWxIuaSdC9IDanawsuhb8939GpU
 
-Then I again post my offer letter which i got from Brainwave Matrix Solutions at 15 April in which you can see how much impressions and members are reached:
+-Then I again post my offer letter which i got from Brainwave Matrix Solutions at 15 April in which you can see how much impressions and members are reached:
 
 https://www.linkedin.com/posts/mrs-sumaiya-shams-710332340_i-have-got-an-offer-letter-from-brainwave-activity-7317799362707812352-ZSES?utm_source=share&utm_medium=member_android&rcm=ACoAAFV6aHwBZWxIuaSdC9IDanawsuhb8939GpU
 
